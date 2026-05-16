@@ -1,0 +1,10 @@
+stockfish.exe filter=lfs diff=lfs merge=lfs -text
+ggml-*.bin filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+
+* text=auto
+*.cs text eol=crlf
+*.shader text eol=crlf
+*.unity text eol=crlf
+*.prefab text eol=crlf
