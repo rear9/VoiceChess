@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 21c70a547c1631945b7032770dc3538d
+guid: 5f9265f644641e84b9c28f993f71326e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7846098539443046549
-    second: logowithbg_0
+      213: 2296424792191443276
+    second: bgnologo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: logowithbg_0
+      name: bgnologo_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 5841
-        height: 3286
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 598c63c1d01f2ec60800000000000000
-      internalID: 7846098539443046549
+      spriteID: c41a8f77e2a8edf10800000000000000
+      internalID: 2296424792191443276
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      logowithbg_0: 7846098539443046549
+      bgnologo_0: 2296424792191443276
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
